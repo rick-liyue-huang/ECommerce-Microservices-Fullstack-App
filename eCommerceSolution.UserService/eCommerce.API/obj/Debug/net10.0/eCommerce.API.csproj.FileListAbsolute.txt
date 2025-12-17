@@ -26,3 +26,10 @@
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.pdb
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.genruntimeconfig.cache
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/ref/eCommerce.API.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/eCommerce.Core.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/eCommerce.Infrastructure.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/eCommerce.Infrastructure.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/eCommerce.Core.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.csproj.AssemblyReference.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.sourcelink.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerc.1EFE0F2B.Up2Date
