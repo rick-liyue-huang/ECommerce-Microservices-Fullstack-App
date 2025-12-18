@@ -10,12 +10,21 @@ builder.Services.AddCore();
 // Add Controllers
 builder.Services.AddControllers();
 
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 
 app.UseRouting();
 
-app.UseAuthorization();
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllers();
 

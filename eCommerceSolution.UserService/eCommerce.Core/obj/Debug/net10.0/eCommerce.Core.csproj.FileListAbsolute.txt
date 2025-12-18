@@ -11,3 +11,6 @@
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net10.0/refint/eCommerce.Core.dll
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net10.0/eCommerce.Core.pdb
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net10.0/ref/eCommerce.Core.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.Core/bin/Debug/net10.0/eCommerce.Domain.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.Core/bin/Debug/net10.0/eCommerce.Domain.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.Core/obj/Debug/net10.0/eCommerc.7F663C23.Up2Date

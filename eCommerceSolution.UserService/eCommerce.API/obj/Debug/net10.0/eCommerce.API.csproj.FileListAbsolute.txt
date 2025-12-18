@@ -33,3 +33,10 @@
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.csproj.AssemblyReference.cache
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.sourcelink.json
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerc.1EFE0F2B.Up2Date
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/eCommerce.Domain.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/eCommerce.Domain.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/obj/Debug/net10.0/eCommerce.API.MvcApplicationPartsAssemblyInfo.cs

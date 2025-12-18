@@ -25,10 +25,19 @@
       },
       "eCommerce.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.1"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.1",
+          "eCommerce.Domain": "1.0.0"
         },
         "runtime": {
           "eCommerce.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "eCommerce.Domain/1.0.0": {
+        "runtime": {
+          "eCommerce.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -50,6 +59,11 @@
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
     },
     "eCommerce.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eCommerce.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

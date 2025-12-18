@@ -1,3 +1,5 @@
+using eCommerce.Core.RepositoryContracts;
+using eCommerce.Infrastructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace eCommerce.Infrastructure;
@@ -9,7 +11,8 @@ public static class DependencyInjection
         // extension methods to add infrastructure services to the DI container
         // add services to the IoC container here
         // infrastructure services often include data access, caching and other lower-level components
-        // e.g. services.AddEntityFrameworkSqlServer();
+
+        services.AddScoped<IUsersRepository, UsersRepository>();
         return services;
     }
 }
