@@ -1,3 +1,4 @@
+using System.Text.Json.Serialization;
 using eCommerce.Core;
 using eCommerce.Infrastructure;
 
@@ -8,7 +9,10 @@ builder.Services.AddInfrastructure();
 builder.Services.AddCore();
 
 // Add Controllers
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter());
+});
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

@@ -16,7 +16,7 @@ public class AuthController : ControllerBase
     }
     
     [HttpPost("register")] // POST /api/auth/register
-    public async Task<IActionResult> Register(RegisterRequest registerRequest)
+    public async Task<IActionResult> Register(RegisterRequest registerRequest) // Task<ActionResult<AuthenticationResponse>>
     {
         if (registerRequest == null) return BadRequest("Invalid register request");
         
@@ -31,7 +31,7 @@ public class AuthController : ControllerBase
     }
 
     [HttpPost("login")] // POST /api/auth/login
-    public async Task<IActionResult> Login(LoginRequest loginRequest)
+    public async Task<IActionResult> Login(LoginRequest loginRequest)  // Task<ActionResult<AuthenticationResponse>>
     {
         // Check for invalid login request
         if (loginRequest == null) return BadRequest("Invalid login request");
