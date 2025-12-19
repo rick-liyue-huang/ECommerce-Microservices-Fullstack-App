@@ -1,5 +1,6 @@
 using System.Text.Json.Serialization;
 using eCommerce.Core;
+using eCommerce.Core.Mappers;
 using eCommerce.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -16,6 +17,10 @@ builder.Services.AddControllers().AddJsonOptions(options =>
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(
+    cfg => {}, 
+    typeof(ApplicationUserMappingProfile).Assembly);
 
 var app = builder.Build();
 

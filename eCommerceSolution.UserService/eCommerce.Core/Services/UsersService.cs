@@ -1,3 +1,4 @@
+using AutoMapper;
 using eCommerce.Core.Dtos;
 using eCommerce.Core.RepositoryContracts;
 using eCommerce.Core.ServiceContracts;
@@ -5,7 +6,7 @@ using eCommerce.Domain.Entities;
 
 namespace eCommerce.Core.Services;
 
-public class UsersService(IUsersRepository usersRepository) : IUsersService
+public class UsersService(IUsersRepository usersRepository, IMapper mapper) : IUsersService
 {
 
     public async Task<AuthenticationResponse?> Login(LoginRequest loginRequest)
@@ -14,7 +15,9 @@ public class UsersService(IUsersRepository usersRepository) : IUsersService
         
         if (user == null) return null;
         
-        return new AuthenticationResponse(user.UserId, "Token", user.Email, user.PersonName, user.Gender, true);
+        // return new AuthenticationResponse(user.UserId, "Token", user.Email, user.PersonName, user.Gender, true);
+        
+        return mapper.Map<AuthenticationResponse>(user) with { Success = true, Token = "ttToken" };
     }
 
     public async Task<AuthenticationResponse?> Register(RegisterRequest registerRequest)
@@ -31,6 +34,8 @@ public class UsersService(IUsersRepository usersRepository) : IUsersService
 
         if (newUser == null) return null;
         
-        return new AuthenticationResponse(newUser.UserId, "newToken", newUser.Email, newUser.PersonName, newUser.Gender, true);
+        // return new AuthenticationResponse(newUser.UserId, "newToken", newUser.Email, newUser.PersonName, newUser.Gender, true);
+
+        return mapper.Map<AuthenticationResponse>(newUser) with { Success = true, Token = "newnewToken" };
     }
 }
