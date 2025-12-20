@@ -1,5 +1,8 @@
+using System.Diagnostics;
 using eCommerce.Core.ServiceContracts;
 using eCommerce.Core.Services;
+using eCommerce.Core.Validators;
+using FluentValidation;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace eCommerce.Core;
@@ -12,6 +15,7 @@ public static class DependencyInjection
         // core services often include domain logic, business rules and other higher-level components
 
         services.AddScoped<IUsersService, UsersService>();
+        services.AddValidatorsFromAssemblyContaining<LoginRequestValidator>();
         return services;
     }
 }

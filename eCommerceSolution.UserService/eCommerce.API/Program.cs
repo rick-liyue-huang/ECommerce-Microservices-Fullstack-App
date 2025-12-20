@@ -2,6 +2,7 @@ using System.Text.Json.Serialization;
 using eCommerce.Core;
 using eCommerce.Core.Mappers;
 using eCommerce.Infrastructure;
+using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,9 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(
     cfg => {}, 
     typeof(ApplicationUserMappingProfile).Assembly);
+
+// FluentValidation
+builder.Services.AddFluentValidationAutoValidation();
 
 var app = builder.Build();
 
