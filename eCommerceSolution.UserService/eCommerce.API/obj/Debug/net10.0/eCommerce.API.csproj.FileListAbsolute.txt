@@ -45,3 +45,5 @@
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Dapper.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UserService/eCommerce.API/bin/Debug/net10.0/Npgsql.dll

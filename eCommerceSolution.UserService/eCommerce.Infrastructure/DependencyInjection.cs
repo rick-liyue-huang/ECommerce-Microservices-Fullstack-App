@@ -1,4 +1,5 @@
 using eCommerce.Core.RepositoryContracts;
+using eCommerce.Infrastructure.DbContext;
 using eCommerce.Infrastructure.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -13,6 +14,7 @@ public static class DependencyInjection
         // infrastructure services often include data access, caching and other lower-level components
 
         services.AddScoped<IUsersRepository, UsersRepository>();
+        services.AddTransient<DapperDbContext>();
         return services;
     }
 }
