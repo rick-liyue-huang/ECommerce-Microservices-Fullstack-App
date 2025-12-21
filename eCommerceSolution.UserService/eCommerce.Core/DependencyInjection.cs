@@ -16,6 +16,8 @@ public static class DependencyInjection
 
         services.AddScoped<IUsersService, UsersService>();
         services.AddValidatorsFromAssemblyContaining<LoginRequestValidator>();
+        services.AddValidatorsFromAssemblyContaining<RegisterRequestValidator>();
+        
         return services;
     }
 }
