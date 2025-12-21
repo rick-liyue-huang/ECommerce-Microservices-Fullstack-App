@@ -20,3 +20,18 @@ docker run --name eCommerceUsers -e POSTGRES_PASSWORD=password -p 5436:5432 -d p
 jdbc:postgresql://localhost:5436/eCommerceUsers
 Host=localhost;Port=5436;Database=eCommerceUsers;Username=postgres;Password=password
 but the key point is the keep all the comlumns name and table name is lower case on the code.
+
+
+
+mysql :
+
+
+docker run --name ecommerce-product-mysql -e MYSQL_ROOT_PASSWORD=password -p 3006:3306 -d mysql:latest
+
+docker exec -it a716dc6cf1c8 sh
+
+mysql -u root -p
+
+mysql> create database ecommerce_product_db;
+
+AllowPublicKeyRetrieval=True 就能解决
