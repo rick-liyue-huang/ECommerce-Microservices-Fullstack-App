@@ -1,0 +1,16 @@
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/bin/Debug/net10.0/BusinessLogicLayer.deps.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/bin/Debug/net10.0/BusinessLogicLayer.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/bin/Debug/net10.0/BusinessLogicLayer.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/bin/Debug/net10.0/DataAccessLayer.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/bin/Debug/net10.0/DataAccessLayer.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.csproj.AssemblyReference.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.AssemblyInfoInputs.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.AssemblyInfo.cs
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.sourcelink.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/Business.450209FB.Up2Date
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/refint/BusinessLogicLayer.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/BusinessLogicLayer.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.ProductService/BusinessLogicLayer/obj/Debug/net10.0/ref/BusinessLogicLayer.dll
