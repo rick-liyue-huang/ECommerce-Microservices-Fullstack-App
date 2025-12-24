@@ -2,7 +2,7 @@ namespace BusinessLogicLayer.Dtos;
 
 public record ProductAddRequest(
     string ProductName,
-    string Category,
+    CategoryOption Category,
     double? UnitPrice,
     int? QuantityInStock
 )

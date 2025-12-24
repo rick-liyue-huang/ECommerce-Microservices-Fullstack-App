@@ -3,7 +3,7 @@ namespace BusinessLogicLayer.Dtos;
 public record ProductResponse(
     Guid ProductId,
     string ProductName,
-    string Category,
+    CategoryOption Category,
     double? UnitPrice,
     int? QuantityInStock
 )
