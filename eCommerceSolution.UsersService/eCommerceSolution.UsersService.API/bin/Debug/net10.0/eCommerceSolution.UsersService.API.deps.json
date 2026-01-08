@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "eCommerceSolution.UsersService.API/1.0.0": {
+        "dependencies": {
+          "eCommerceSolution.UsersService.Core": "1.0.0",
+          "eCommerceSolution.UsersService.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "eCommerceSolution.UsersService.API.dll": {}
+        }
+      },
+      "eCommerceSolution.UsersService.Core/1.0.0": {
+        "dependencies": {
+          "eCommerceSolution.UsersService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "eCommerceSolution.UsersService.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "eCommerceSolution.UsersService.Domain/1.0.0": {
+        "runtime": {
+          "eCommerceSolution.UsersService.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "eCommerceSolution.UsersService.Infrastructure/1.0.0": {
+        "dependencies": {
+          "eCommerceSolution.UsersService.Core": "1.0.0"
+        },
+        "runtime": {
+          "eCommerceSolution.UsersService.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "eCommerceSolution.UsersService.API/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eCommerceSolution.UsersService.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eCommerceSolution.UsersService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "eCommerceSolution.UsersService.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

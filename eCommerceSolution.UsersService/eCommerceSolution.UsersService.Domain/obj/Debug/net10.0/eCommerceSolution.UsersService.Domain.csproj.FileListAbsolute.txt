@@ -1,0 +1,12 @@
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/bin/Debug/net10.0/eCommerceSolution.UsersService.Domain.deps.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/bin/Debug/net10.0/eCommerceSolution.UsersService.Domain.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/bin/Debug/net10.0/eCommerceSolution.UsersService.Domain.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.AssemblyInfoInputs.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.AssemblyInfo.cs
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.csproj.CoreCompileInputs.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.sourcelink.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/refint/eCommerceSolution.UsersService.Domain.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/eCommerceSolution.UsersService.Domain.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Domain/obj/Debug/net10.0/ref/eCommerceSolution.UsersService.Domain.dll

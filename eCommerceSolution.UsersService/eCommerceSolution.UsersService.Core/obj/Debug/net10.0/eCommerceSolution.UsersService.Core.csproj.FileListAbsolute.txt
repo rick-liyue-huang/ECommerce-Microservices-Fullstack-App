@@ -1,0 +1,16 @@
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/bin/Debug/net10.0/eCommerceSolution.UsersService.Core.deps.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/bin/Debug/net10.0/eCommerceSolution.UsersService.Core.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/bin/Debug/net10.0/eCommerceSolution.UsersService.Core.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/bin/Debug/net10.0/eCommerceSolution.UsersService.Domain.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/bin/Debug/net10.0/eCommerceSolution.UsersService.Domain.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.csproj.AssemblyReference.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.AssemblyInfoInputs.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.AssemblyInfo.cs
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.csproj.CoreCompileInputs.cache
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.sourcelink.json
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerc.0FDA5E62.Up2Date
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/refint/eCommerceSolution.UsersService.Core.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/eCommerceSolution.UsersService.Core.pdb
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/obj/Debug/net10.0/ref/eCommerceSolution.UsersService.Core.dll
