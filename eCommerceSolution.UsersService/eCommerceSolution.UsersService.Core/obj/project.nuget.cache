@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UuWUeGz1rD0=",
+  "dgSpecHash": "pZ3V7ByUR9w=",
   "success": true,
   "projectFilePath": "/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.Core/eCommerceSolution.UsersService.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/rickhuang668/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
