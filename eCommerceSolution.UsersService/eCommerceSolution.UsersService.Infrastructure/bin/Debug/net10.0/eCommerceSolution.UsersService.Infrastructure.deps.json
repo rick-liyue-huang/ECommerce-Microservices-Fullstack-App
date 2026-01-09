@@ -25,6 +25,7 @@
       },
       "eCommerceSolution.UsersService.Core/1.0.0": {
         "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.1",
           "eCommerceSolution.UsersService.Domain": "1.0.0"
         },
         "runtime": {
