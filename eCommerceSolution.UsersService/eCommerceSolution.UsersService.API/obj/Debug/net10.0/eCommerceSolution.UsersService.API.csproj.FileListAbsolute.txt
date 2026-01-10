@@ -35,3 +35,8 @@
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/bin/Debug/net10.0/eCommerceSolution.UsersService.Domain.pdb
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/obj/Debug/net10.0/eCommerceSolution.UsersService.API.csproj.AssemblyReference.cache
 /Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/obj/Debug/net10.0/eCommerc.AC079B3D.Up2Date
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/bin/Debug/net10.0/AutoMapper.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/rickhuang668/Projects/ECommerce-Microservices-Fullstack-App /eCommerceSolution.UsersService/eCommerceSolution.UsersService.API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll

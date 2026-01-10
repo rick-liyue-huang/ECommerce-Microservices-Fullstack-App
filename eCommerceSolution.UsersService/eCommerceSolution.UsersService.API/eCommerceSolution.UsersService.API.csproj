@@ -18,4 +18,8 @@
       <ProjectReference Include="..\eCommerceSolution.UsersService.Infrastructure\eCommerceSolution.UsersService.Infrastructure.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="16.0.0" />
+    </ItemGroup>
+
 </Project>
